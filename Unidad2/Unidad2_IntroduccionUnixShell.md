@@ -25,7 +25,7 @@ Notarás que la tercera línea termina en `$`
 
 Que le damos comandos y nos responde. 
 
-El la Terminal no existe el *point and click*. El que funcione como una Línea de Comando significa que tienes que darle comandos de qué hacer línea por línea. 
+En la Terminal no existe el *point and click*. El que funcione como una Línea de Comando significa que tienes que darle comandos de qué hacer línea por línea. 
 
 Por ejemplo:
 
@@ -37,7 +37,7 @@ Algo así debe verse tu terminal:
 
 ![egTerminal2](02Terminal.png)
 
-Pero por practicidad y para facilitar el copiar-pegar en vez de la imágen de la Terminal pondré los comandos (código) y sus resultados, así:
+Pero por practicidad y para facilitar el copiar-pegar en vez de la imagen de la Terminal pondré los comandos (código) y sus resultados, así:
 
 ```
 Alicias-MacBook-Pro:~ ticatla$ date
@@ -130,7 +130,7 @@ Háganlo en sus sistemas.
 **Quienes estén en Cwying:**
 
 ```
-cd cygdrive/c/Users/NOMBREdeUSUARIO/Desktop/BioinfInvRepro2017-II
+cd /cygdrive/c/Users/NOMBREdeUSUARIO/Desktop/BioinfInvRepro2017-II
 ```
 
 #### Moverse a home:
